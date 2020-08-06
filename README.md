@@ -15,6 +15,8 @@ javascript의 this 예약어는 '누가' 실행했느냐에 따라서 정해짐.
 
 2. React
 
+React를 써야하는 이유 : https://environmentset.github.io/2019/02/13/Why-use-React/
+
 React의 특징 : Virtual DOM 구조를 사용한 컴파일로 브라우저의 부담을 줄임
 --> 성능 향상
 실행 단위를 컴포넌트(Component)
