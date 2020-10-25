@@ -2,7 +2,7 @@
 history of my daily learning something
 1. Javascript
 2. React
-
+3. BootStrap
 
 
 1. Javascript
@@ -54,3 +54,13 @@ function App() {
     </div>
   );
 }
+
+3.BootStrap
+
+클래스를 통한 레이아웃 구성. 클래스 2개를 지정하여 사용
+btn : 버튼
+
+다운로드 방법 : CDN(Contents Download Network)를 통한 링크접속으로 사용하거나, 부트스트랩 홈페이지를 통하여 다운.
+
+모달 : 임시 창
+캐러셀 : 화살표로 움직이는 창
